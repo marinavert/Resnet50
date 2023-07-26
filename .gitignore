@@ -1,0 +1,8 @@
+wandb/*
+GTEA/*
+features/*
+results/*
+checkpoints/*
+csv/*
+labels/*
+models/*
